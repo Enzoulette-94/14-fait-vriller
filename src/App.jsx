@@ -71,7 +71,7 @@ function App() {
           <div className="success-view">
             <img
               className="valentine-photo"
-              src="/valentine-photo.png"
+              src="valentine-photo.png"
               alt="Photo romantique"
             />
             <p className="success-text">tu viens d&apos;accéder au bonheur</p>
