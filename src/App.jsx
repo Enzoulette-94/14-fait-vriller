@@ -106,6 +106,14 @@ function App() {
                 Non
               </button>
             </div>
+            <a
+              className="music-link"
+              href="https://www.youtube.com/watch?v=kHX4vr4k7H8&list=RDkHX4vr4k7H8&start_radio=1"
+              target="_blank"
+              rel="noreferrer"
+            >
+              notre musique pour se mettre dans l'ambiance
+            </a>
           </>
         </section>
       )}
